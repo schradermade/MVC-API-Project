@@ -1,0 +1,14 @@
+/Users/nathanschrader/Desktop/Epicodus/CPark.Solution/CretaceousParkApi/obj/Debug/netcoreapp2.2/CretaceousParkApi.csprojAssemblyReference.cache
+/Users/nathanschrader/Desktop/Epicodus/CPark.Solution/CretaceousParkApi/obj/Debug/netcoreapp2.2/CretaceousParkApi.csproj.CoreCompileInputs.cache
+/Users/nathanschrader/Desktop/Epicodus/CPark.Solution/CretaceousParkApi/obj/Debug/netcoreapp2.2/CretaceousParkApi.RazorAssemblyInfo.cache
+/Users/nathanschrader/Desktop/Epicodus/CPark.Solution/CretaceousParkApi/obj/Debug/netcoreapp2.2/CretaceousParkApi.RazorAssemblyInfo.cs
+/Users/nathanschrader/Desktop/Epicodus/CPark.Solution/CretaceousParkApi/obj/Debug/netcoreapp2.2/CretaceousParkApi.AssemblyInfoInputs.cache
+/Users/nathanschrader/Desktop/Epicodus/CPark.Solution/CretaceousParkApi/obj/Debug/netcoreapp2.2/CretaceousParkApi.AssemblyInfo.cs
+/Users/nathanschrader/Desktop/Epicodus/CPark.Solution/CretaceousParkApi/bin/Debug/netcoreapp2.2/CretaceousParkApi.deps.json
+/Users/nathanschrader/Desktop/Epicodus/CPark.Solution/CretaceousParkApi/bin/Debug/netcoreapp2.2/CretaceousParkApi.runtimeconfig.json
+/Users/nathanschrader/Desktop/Epicodus/CPark.Solution/CretaceousParkApi/bin/Debug/netcoreapp2.2/CretaceousParkApi.runtimeconfig.dev.json
+/Users/nathanschrader/Desktop/Epicodus/CPark.Solution/CretaceousParkApi/bin/Debug/netcoreapp2.2/CretaceousParkApi.dll
+/Users/nathanschrader/Desktop/Epicodus/CPark.Solution/CretaceousParkApi/bin/Debug/netcoreapp2.2/CretaceousParkApi.pdb
+/Users/nathanschrader/Desktop/Epicodus/CPark.Solution/CretaceousParkApi/obj/Debug/netcoreapp2.2/CretaceousParkApi.RazorTargetAssemblyInfo.cache
+/Users/nathanschrader/Desktop/Epicodus/CPark.Solution/CretaceousParkApi/obj/Debug/netcoreapp2.2/CretaceousParkApi.dll
+/Users/nathanschrader/Desktop/Epicodus/CPark.Solution/CretaceousParkApi/obj/Debug/netcoreapp2.2/CretaceousParkApi.pdb
