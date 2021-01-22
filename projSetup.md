@@ -8,7 +8,7 @@ dotnet new webapi --framework netcoreapp2.2
 dotnet add package Microsoft.EntityFrameworkCore -v 2.2.0
 dotnet add package Pomelo.EntityFrameworkCore.MySql -v 2.2.0 
 
-1. Setup up the .Solution folder to hold the ProjectNameAPI folder and the ProjectNameMVC folder. 
+1. Setup the .Solution folder to hold the ProjectNameAPI folder and the ProjectNameMVC folder. 
 2. Navigate to the API folder and run the above commands for "set up API and Databases"
 3. Navigate to the Startup.cs and comment out the app.UseHttpsRedirection();
 4. Now add the dotnet packages listed above
